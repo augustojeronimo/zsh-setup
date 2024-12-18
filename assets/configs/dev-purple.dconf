@@ -1,0 +1,16 @@
+[/]
+background-color='rgb(20,15,25)'
+background-transparency-percent=3
+bold-color='#bdbdc3c3c7c7'
+bold-color-same-as-fg=true
+custom-command=''
+font='Fira Code 14'
+foreground-color='rgb(216,173,230)'
+login-shell=false
+palette=['rgb(20,15,25)', 'rgb(60,30,90)', 'rgb(105,65,225)', 'rgb(149,100,237)', 'rgb(206,135,250)', 'rgb(191,0,255)', 'rgb(206,135,235)', 'rgb(224,176,230)', 'rgb(25,25,112)', 'rgb(130,70,180)', 'rgb(149,100,237)', 'rgb(204,0,204)', 'rgb(224,176,230)', 'rgb(206,135,250)', 'rgb(248,240,255)', 'rgb(255,255,255)']
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=false
+visible-name='dev-purple'
